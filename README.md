@@ -26,4 +26,3 @@
         <p>&copy; 2024 Capstone Project - climate change. All rights reserved.</p>
     </footer>
 </body>
-</html>
