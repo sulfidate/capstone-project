@@ -1,4 +1,3 @@
-<img width="630" alt="image" src="https://github.com/user-attachments/assets/28337a36-72c6-43f3-aa3b-325dd7c4c435">
-<img width="630" alt="Screenshot 2024-09-29 at 14 52 43" src="https://github.com/user-attachments/assets/995a4e01-012a-4795-bf61-4f9300c41365">
-<img width="630" alt="Screenshot 2024-09-29 at 14 54 02" src="https://github.com/user-attachments/assets/c7b63fc7-01a4-4595-880e-103471c3e945">
-<img width="630" alt="Screenshot 2024-09-29 at 14 55 26" src="https://github.com/user-attachments/assets/5052a962-3385-4d0e-8ccd-9b00bdf797c9">
+                <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbJwEkgX0n9XImghjGs-wpSVCqqFIdgt0B7jjQJ34NRtKaTXCqJoc-X9FYO7sSc4lo85qCKvw6wADh/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
