@@ -4,10 +4,6 @@
         <h1>Welcome to the Capstone Project - climate change</h1>
         <nav>
             <ul>
-                <li><a href="#"></a></li>
-                <li><a href="#"></a></li>
-                <li><a href="#"></a></li>
-                <li><a href="#"></a></li>
                 <li><a href="#kick_off">kick off presentation</a></li>
             </ul>
         </nav>
