@@ -4,8 +4,9 @@
         <h1>Welcome to the Capstone Project - climate change</h1>
         <nav>
             <ul>
+                <li><a href="#about">about the project</a></li>
                 <li><a href="#kick_off">kick off presentation</a></li>
-                <li><a href="#538"></a>fivethirtyeight.com</li>
+                <li><a href="#five_38">fivethirtyeight.com</a></li>
             </ul>
         </nav>
     </header>
@@ -21,17 +22,13 @@
                 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbJwEkgX0n9XImghjGs-wpSVCqqFIdgt0B7jjQJ34NRtKaTXCqJoc-X9FYO7sSc4lo85qCKvw6wADh/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             </ul>
         </section>
-
-         <section id="538">
+         <section id="five_38">
             <h2>fivethirtyeight.com</h2>
             <p>Daily actualised Data forecast to the US Election 2024</p>
             <ul>
                 <li><a href="https://projects.fivethirtyeight.com/polls/">Link to fivethirtyeight.com</a></li>
             </ul>
         </section>
-        
-
-       
     </main>
     <footer>
         <p>&copy; 2024 Capstone Project - climate change. All rights reserved.</p>
