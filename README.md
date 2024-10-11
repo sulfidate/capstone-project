@@ -4,8 +4,11 @@
         <h1>Welcome to the Capstone Project - climate change</h1>
         <nav>
             <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#kick-off">kick off presentation</a></li>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+                <li><a href="#kick_off">kick off presentation</a></li>
             </ul>
         </nav>
     </header>
@@ -14,7 +17,7 @@
             <h2>About the Project</h2>
             <p>This project is designed to showcase the skills and knowledge acquired during the data analyst course.</p>
         </section>
-        <section id="kick-off">
+        <section id="kick_off">
             <h2>kick off presentation</h2>
             <p>10-11-2024</p>
             <ul>
