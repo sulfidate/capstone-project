@@ -7,7 +7,7 @@ hello guys, in this repository we will be working on our capstone project of the
 
 ---
 
-# updates will be published regularly on the [project page](https://sulfidate.github.io/capstone-project/landingpage/)
+# updates will be published regularly on the [project page](https://sulfidate.github.io/capstone-project/)
 
 ---
 
