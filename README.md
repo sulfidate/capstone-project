@@ -1,7 +1,7 @@
 
 <body>
     <header>
-        <h1>Welcome to the Capstone Project - climate change</h1>
+        <h1>Welcome to the Capstone Project - political change</h1>
         <nav>
             <ul>
                 <li><a href="#about">about the project</a></li>
